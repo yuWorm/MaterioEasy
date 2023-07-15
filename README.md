@@ -6,4 +6,7 @@ MaterioEasy基于[MaterioFree JS](https://github.com/themeselection/materio-vuet
 本项目只是为了方便自用，同时本人又很菜，所以代码可能比较糟糕，所以使用需谨慎。
 
 ### 演示图
+![](https://raw.githubusercontent.com/yuWorm/MaterioEasy/master/images/curd.png)
+![](https://raw.githubusercontent.com/yuWorm/MaterioEasy/master/images/login.png)
+![](https://raw.githubusercontent.com/yuWorm/MaterioEasy/master/images/夜间模式.png)
 
