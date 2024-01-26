@@ -1,4 +1,4 @@
-const Layout = () => import('@/layout/index.vue')
+const Layout = () => import('@/layouts/index.vue')
 
 export const basicRoutes = [
   {

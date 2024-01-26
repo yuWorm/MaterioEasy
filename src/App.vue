@@ -1,8 +1,5 @@
 <script setup>
-const o = (p, s) => {
-  console.log(p)
-  return 'a'
-}
+
 </script>
 
 <template>
