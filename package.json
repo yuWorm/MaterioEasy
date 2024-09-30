@@ -86,7 +86,6 @@
     "vite-plugin-vuetify": "1.0.2",
     "vue-shepherd": "^3.0.0"
   },
-  "packageManager": "yarn@1.22.18",
   "resolutions": {
     "postcss": "8"
   }
